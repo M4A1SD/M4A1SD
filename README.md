@@ -6,23 +6,21 @@
 </p>
 
 - 🔭 I’m currently working on LLM calendar manager
-- 🌱 right now I’m learning memory manipulation, reverse engineering and cpp
-- 👯 I’m looking to collaborate on AI agent making and starting companies
+- 🌱 right now I’m learning memory manipulation, reverse engineering & cpp, crewAI & agentic AI.
+- 👯 I’m looking to collaborate on AI agent making and producing value.
 - 🤔 I’m looking for help with game mods
 - 💬 Ask me about the future of AI lol
 - 📫 reach me: discord: artur.il
 - 😄 Pronouns: human
 - ⚡ Fun fact: python was my first language
 
-//note to self
-UPDATE LATER
-YT:
-Blog:
-turn repos public
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
+<p>
+//note to self
+[YT,Blog,linkedin, make repos public]
+</p>
 <!--
 **M4A1SD/M4A1SD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
