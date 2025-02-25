@@ -7,12 +7,12 @@
 
 - 🔭 I’m currently working on LLM calendar manager
 - 🌱 right now I’m learning memory manipulation, reverse engineering & cpp, crewAI & agentic AI.
-- 👯 I’m looking to collaborate on AI agent making and producing value.
+- 👯 I’m looking to collaborate on AI agents and producing value to people.
 - 🤔 I’m looking for help with game mods
 - 💬 Ask me about the future of AI lol
 - 📫 reach me: discord: artur.il
-- 😄 Pronouns: human
-- ⚡ Fun fact: python was my first language
+- ⚡ Fun fact: I was a cs1.6 server owner, running tv-tower map 24/7
+- 😄 Pronouns: DEPRECATED
 
 
 <h3 align="left">Languages and Tools:</h3>
