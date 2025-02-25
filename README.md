@@ -12,7 +12,6 @@
 - 💬 Ask me about the future of AI lol
 - 📫 reach me: discord: artur.il
 - ⚡ Fun fact: I was a cs1.6 server owner, running tv-tower map 24/7
-- 😄 Pronouns: DEPRECATED
 
 
 <h3 align="left">Languages and Tools:</h3>
