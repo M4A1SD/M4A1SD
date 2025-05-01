@@ -12,9 +12,9 @@
 - 📫 reach me: discord: artur.il
 
 <h3 align="left">Strengths:</h3>
-- Python
-- GenAI & Cloud with a heavy focus on GenAI applications on AWS
-- Pinecone vector database expertise
+- Python<br>
+- GenAI & Cloud with a heavy focus on GenAI applications on AWS<br>
+- Pinecone vector database expertise<br>
 
 
 </p>
