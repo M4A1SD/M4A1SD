@@ -5,16 +5,16 @@
 <p align="left">
 </p>
 
-- 🔭 Customer support AI and application agents.
+- 🔭 AI/ML
 - 🌱 Fine tuning and working with slim LLM models
-- 👯 I'm looking to collaborate on AI agents and producing value to people.
+- 👯 I'm looking to collaborate on AI and producing value to people.
 - 💬 Ask me about the future of AI lol
 - 📫 reach me: discord: artur.il
 
 <h3 align="left">Strengths:</h3>
 - Python<br>
 - GenAI & Cloud with a heavy focus on GenAI applications on AWS<br>
-- Pinecone vector database expertise<br>
+<br>
 
 
 </p>
